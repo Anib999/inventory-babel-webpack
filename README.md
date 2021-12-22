@@ -1,26 +1,4 @@
-# lunivacarelab-inventory
-Item - anib
-Unit - suman
-type - suman
-category - suman
-manufacture - suman
-goods in - anib
-item vs test ratio - not imporant currently
-location - suman
-rack - no
-wastage - no
-
-CURD operation http://lunivacare.ddns.net/CarelabDataMetricService_qc
-
-in Inventory
-
-Currently suman(design) anib(service/operation)
-
-git clone <link>
-
-* important pull the main pull origin main when main is changed
-keep files in the folder & go to folder
-git add . to stage all changes
-git status to check
-git commit -m "message to push"
-git push origin <your-branch>
+# inventory-babel-webpack
+This build is with babel and webpack.
+check .babelrc package.json webpack.config.js for dependency
+currently no support for svg
